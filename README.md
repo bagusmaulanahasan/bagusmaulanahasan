@@ -27,7 +27,7 @@ I'm a Computer Science undergraduate student majoring in Informatics Engineering
 Over the past few years, I’ve worked on multiple React.js projects, including both personal and commercial work. These projects range from simple portfolio sites to more complex applications. I thrive in creating clean, functional, and aesthetically pleasing user interfaces while ensuring a smooth user experience.  
 </p>
 
-<h2>My Skills</h2>
+<h2>Core Competencies</h2>
 <ul>
   <li>
     Languages: JavaScript, TypeScript, HTML, CSS
@@ -36,17 +36,17 @@ Over the past few years, I’ve worked on multiple React.js projects, including 
     Frameworks & Libraries: Tailwind CSS, React.js, Redux
   </li>
   <li>
-    Tools: Git, VSCode, Figma, Webpack, Docker
+    Development Tools: Git, VSCode
   </li>
 </ul>
 
 <h2>Projects</h2>
 <p>
-Feel free to explore some of my projects below, showcasing my work using React.js and Tailwind:
+Feel free to explore some of my projects below, showcasing my work using React.js, Tailwind CSS, MySQL, NodeJS, and ExpressJS:
 </p>
 <ol>
   <li>
-    [upcoming] - upcoming.
+    [Ankeslang](https://github.com/Lynuxxx/antri-puskesmas) - upcoming.
   </li>
   <li>
     [upcoming] - upcoming.
@@ -82,7 +82,8 @@ I’m always open to collaborating on interesting projects or discussing new ide
 
 ---
 
-### ⚡ More Languages and Tools
+<!--### ⚡ More Languages and Tools-->
+⚡ Additional Proficiencies
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
