@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1>Hi there, I'm Bagus Maulana 👋</h1>
 <p>
-I'm a Computer Science undergraduate student majoring in Informatics Engineering, currently in my 5th semester. I'm passionate about Web Development, with a focus on Front-End Development. My tool of choice is React.js, often paired with Tailwind CSS for building fast, responsive, and modern web interfaces.  
+I'm a Computer Science undergraduate student majoring in Informatics Engineering. I'm passionate about Web Development, with a focus on Front-End Development. My tool of choice is React.js, often paired with Tailwind CSS and Shadcn UI for building fast, responsive, and modern web interfaces.  
 </p>
 
 <h2>What I Do</h2>
