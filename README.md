@@ -1,6 +1,8 @@
 <!--
 **bagusmaulanahasan/bagusmaulanahasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[Ankeslang](https://github.com/Lynuxxx/antri-puskesmas) - upcoming.
+
 Here are some ideas to get you started:
 
 ## Hi there 👋
@@ -46,7 +48,7 @@ Feel free to explore some of my projects below, showcasing my work using React.j
 </p>
 <ol>
   <li>
-    [Ankeslang](https://github.com/Lynuxxx/antri-puskesmas) - upcoming.
+    [upcoming] - upcoming.
   </li>
   <li>
     [upcoming] - upcoming.
@@ -74,10 +76,6 @@ I’m always open to collaborating on interesting projects or discussing new ide
     Instagram: -    
   </li>
 </ul>
-
-<p>
-  Thanks for stopping by! 🚀
-</p>
 
 
 ---
