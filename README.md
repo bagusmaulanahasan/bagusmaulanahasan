@@ -28,16 +28,10 @@ Over the past few years, I’ve worked on multiple React.js projects, including 
 <h2>Core Competencies</h2>
 <ul>
   <li>
-    Languages: JavaScript, HTML, CSS
+    Frontend: React.JS, Tailwind CSS, Redux
   </li>
   <li>
-    Frameworks & Libraries: Tailwind CSS, React.JS, Redux, Express.JS
-  </li>
-  <li>
-    Runtime Environment: Node.JS
-  </li>
-  <li>
-    Database: MySQL
+    Backend: MySQL, Node.Js, Express
   </li>
   <li>
     Development Tools: Git, VSCode, Linux
