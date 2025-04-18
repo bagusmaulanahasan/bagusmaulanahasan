@@ -1,10 +1,6 @@
 <!--
 **bagusmaulanahasan/bagusmaulanahasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[Ankeslang](https://github.com/Lynuxxx/antri-puskesmas) - upcoming.
-
-Here are some ideas to get you started:
-
 ## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,7 +13,7 @@ Here are some ideas to get you started:
 - 🧰 Languages and Tools ...
 -->
 
-**`✨ WEB Developer ✨`**
+**`✨ ~ ✨`**
 
 <h1>Hi there, I'm Bagus Maulana 👋</h1>
 <p>
@@ -32,13 +28,19 @@ Over the past few years, I’ve worked on multiple React.js projects, including 
 <h2>Core Competencies</h2>
 <ul>
   <li>
-    Languages: JavaScript, TypeScript, HTML, CSS
+    Languages: JavaScript, HTML, CSS
   </li>
   <li>
-    Frameworks & Libraries: Tailwind CSS, React.js, Redux
+    Frameworks & Libraries: Tailwind CSS, React.JS, Redux, Express.JS
   </li>
   <li>
-    Development Tools: Git, VSCode
+    Runtime Environment: Node.JS
+  </li>
+  <li>
+    Database: MySQL
+  </li>
+  <li>
+    Development Tools: Git, VSCode, Linux
   </li>
 </ul>
 
@@ -59,7 +61,7 @@ Feel free to explore some of my projects below, showcasing my work using React.j
 </ol>
 
 
-
+<!--
 <h2>Let’s Connect!</h2>
 <p>
 I’m always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me on:  
@@ -76,7 +78,7 @@ I’m always open to collaborating on interesting projects or discussing new ide
     Instagram: -    
   </li>
 </ul>
-
+-->
 
 ---
 
@@ -87,15 +89,17 @@ I’m always open to collaborating on interesting projects or discussing new ide
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<!--
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+-->
 
 <!--
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
