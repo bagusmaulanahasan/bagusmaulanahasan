@@ -28,10 +28,10 @@ Over the past few years, I’ve worked on multiple React.js projects, including 
 <h2>Core Competencies</h2>
 <ul>
   <li>
-    Frontend: React.JS, Tailwind CSS, Redux
+    Frontend: React, Tailwind CSS
   </li>
   <li>
-    Backend: MySQL, Node.Js, Express
+    Backend: MySQL, Node.Js
   </li>
   <li>
     Development Tools: Git, VSCode, Linux
