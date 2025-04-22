@@ -22,7 +22,7 @@ I'm a Computer Science undergraduate student majoring in Informatics Engineering
 
 <h2>What I Do</h2>
 <p>
-Over the past few years, I’ve worked on multiple React.js projects, including both personal and commercial work. These projects range from simple portfolio sites to more complex applications. I thrive in creating clean, functional, and aesthetically pleasing user interfaces while ensuring a smooth user experience.  
+Over the past few years, I’ve worked on multiple React.js projects. These projects range from simple portfolio sites to more complex applications. I thrive in creating clean, functional, and aesthetically pleasing user interfaces while ensuring a smooth user experience.  
 </p>
 
 <h2>Core Competencies</h2>
