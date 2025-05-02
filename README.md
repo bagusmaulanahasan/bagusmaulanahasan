@@ -1,100 +1,43 @@
-<!--
-**bagusmaulanahasan/bagusmaulanahasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi 👋, I'm Bagus Maulana</h2>
+<h4 align="center">A passionate Frontend Web Developer</h4>
 
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🧰 Languages and Tools ...
--->
-
-**`✨ ~ ✨`**
-
-<h1>Hi there, I'm Bagus Maulana 👋</h1>
-<p>
-I'm a Computer Science undergraduate student majoring in Informatics Engineering. I'm passionate about Web Development, with a focus on Front-End Development. My tool of choice is React.js, often paired with Tailwind CSS and Shadcn UI for building fast, responsive, and modern web interfaces.  
-</p>
-
-<h2>What I Do</h2>
-<p>
-Over the past few years, I’ve worked on multiple React.js projects. These projects range from simple portfolio sites to more complex applications. I thrive in creating clean, functional, and aesthetically pleasing user interfaces while ensuring a smooth user experience.  
-</p>
-
-<h2>Core Competencies</h2>
-<ul>
-  <li>
-    Frontend: React, Tailwind CSS
-  </li>
-  <li>
-    Backend: MySQL, Node.Js
-  </li>
-  <li>
-    Development Tools: Git, VSCode, Linux
-  </li>
-</ul>
-
-<h2>Projects</h2>
-<p>
-Feel free to explore some of my projects below, showcasing my work using React.js, Tailwind CSS, MySQL, NodeJS, and ExpressJS:
-</p>
-<ol>
-  <li>
-    [upcoming] - upcoming.
-  </li>
-  <li>
-    [upcoming] - upcoming.
-  </li>
-  <li>
-    [upcoming] - upcoming.
-  </li>
-</ol>
-
-
-<!--
-<h2>Let’s Connect!</h2>
-<p>
-I’m always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me on:  
-</p>
-
-<ul style="list-style-type: none;">
- <li>
-   Email: -
- </li>
-  <li>
-    LinkedIn: -    
-  </li>
-  <li>
-    Instagram: -    
-  </li>
-</ul>
--->
+<!-- <h5 align="left">Connect with me:</h5> -->
 
 ---
+<h5 align="left">Solving Challenges At :</h5>
 
-<!--### ⚡ More Languages and Tools-->
-⚡ Additional Proficiencies
+<a href="https://www.codewars.com/users/bee_m">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/profile/bagusmaulana0320">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<!--
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
--->
 
-<!--
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
--->
+---
+<h5>My Codewars Journey :</h5>
+
+[![Codewars](https://www.codewars.com/users/bee_m/badges/small)](https://www.codewars.com/users/bee_m)
+
+---
+<h5 align="left">Languages and Tools :</h5>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAF" />
+<br>
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express%20js-323330?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
+<!-- nextjs -->
+<!-- <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> -->
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagusmaulanahasan&show_icons=true&locale=en&layout=compact" alt="bagusmaulanahasan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagusmaulanahasan&show_icons=true&locale=en" alt="bagusmaulanahasan" /></p>
+
