@@ -22,7 +22,11 @@
 
 <h3 align="left">📊 My GitHub Overview :</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagusmaulanahasan&show_icons=true&locale=en&layout=compact" alt="bagusmaulanahasan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagusmaulanahasan&show_icons=true&locale=en" alt="bagusmaulanahasan" /></p>
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bagusmaulanahasan" /></p>
+<!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bagusmaulanahasan&show_icons=true&locale=en" alt="bagusmaulanahasan" /></p>
+-->
+
 
 ---
 <h3 align="left">🎯 Solving Challenges At :</h3>
