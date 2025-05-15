@@ -5,9 +5,9 @@
 
 ---
 
-<h3 align="left">🛠 Languages and Tools :</h3>
+<h3>🛠 Languages and Tools :</h3>
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right:8px;" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-right:8px;" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-right:8px;" />
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-right:8px;" />
 </p>
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin-right:8px;" />
   <img src="https://img.shields.io/badge/Express%20js-323330?style=for-the-badge&logo=express&logoColor=white" style="margin-right:8px;" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right:8px;" />
@@ -27,8 +27,10 @@
 
 <h3 align="left">📊 My GitHub Overview :</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagusmaulanahasan&show_icons=true&locale=en&layout=compact" alt="Top Langs" style="margin-right:12px;" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagusmaulanahasan&show_icons=true&locale=en&layout=compact" alt="Top Langs"/>
+</p>
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bagusmaulanahasan" alt="Profile Summary" />
 </p>
 
@@ -38,9 +40,9 @@
 
 ---
 
-<h3 align="left">🎯 Solving Challenges At :</h3>
+<h3>🎯 Solving Challenges At :</h3>
 
-<p align="left">
+<p>
   <a href="https://www.codewars.com/users/bee_m">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" style="margin-right:8px;" />
   </a>
