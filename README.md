@@ -38,14 +38,16 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bagusmaulanahasan&show_icons=true&locale=en" alt="bagusmaulanahasan" /></p>
 -->
 
+<!--
 ---
-
 <h3>🎯 Solving Challenges At :</h3>
 
 <p>
   <a href="https://www.codewars.com/users/bee_m">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" style="margin-right:8px;" />
   </a>
+-->
+  
   <!-- 
   <a href="https://www.hackerrank.com/profile/bagusmaulana0320">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
